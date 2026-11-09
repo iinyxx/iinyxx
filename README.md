@@ -1,5 +1,13 @@
 # 💫 About Me:
-### Hi, I'm Yousef (Nyx)<br>I'm a Computer Science student and self-taught Full-Stack Developer with a strong interest in software architecture, backend systems, and building scalable applications.<br>I've been programming since 2022, driven by curiosity and a passion for understanding how things work. I enjoy turning ideas into real applications, solving complex problems, and finding simple, efficient solutions.<br>I care about writing clean, maintainable code, improving performance, and building software that's reliable and easy to scale.<br>I'm always learning, exploring new ideas, and open to collaborating with other developers.
+### Hi, I'm Yousef (Nyx)
+
+I'm a Computer Science student and self-taught Full-Stack Developer with a strong interest in **software architecture**, **backend systems**, and **building scalable applications**.
+
+I've been programming since 2022, driven by curiosity and a passion for understanding how things work. I enjoy turning ideas into real applications, solving complex problems, and finding simple, efficient solutions.
+
+I care about writing **clean, maintainable code**, improving performance, and building software that's reliable and easy to scale.
+
+I'm always learning, exploring new ideas, and open to collaborating with other developers.
 
 
 ## 🌐 Socials:
